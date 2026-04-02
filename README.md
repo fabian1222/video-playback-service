@@ -1,6 +1,6 @@
-# Winnow Vision - Video Playback Control Service
+# Video Playback Control Service
 
-This repository contains a proof-of-concept prototype for a Video Playback Control Service. The goal of this tool is to automate test scenarios for the Winnow Vision system by programmatically triggering pre-recorded waste event videos on a local monitor.
+This repository contains a proof-of-concept prototype for a Video Playback Control Service. The goal of this tool is to automate test scenarios for the Vision system by programmatically triggering pre-recorded waste event videos on a local monitor.
 
 ## 1. Design Description
 
